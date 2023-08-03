@@ -1,4 +1,6 @@
-# Shark_attacks
+# Shark attacks
+
+Data-analysis project based on dataset from Kaggle
 
 Workflow:
 
